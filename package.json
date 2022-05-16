@@ -1,0 +1,25 @@
+{
+  "name": "line-bot-with-ngrok",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mitsuoka0423/line-bot-with-ngrok.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitsuoka0423/line-bot-with-ngrok/issues"
+  },
+  "homepage": "https://github.com/mitsuoka0423/line-bot-with-ngrok#readme",
+  "dependencies": {
+    "@line/bot-sdk": "^7.5.0",
+    "express": "^4.18.1",
+    "ngrok": "^4.3.1"
+  }
+}
